@@ -167,13 +167,17 @@ namespace Apple01
         // When player gets hit, reset location and reduce lives
         void onPlayerHit()
         {
-            sounds[0].Play();
-            player.Reset(new Vector2(0, GROUND_LEVEL));
+
             if (lives.Count != 0)
+            {
+                sounds[0].Play();
                 lives.RemoveAt(lives.Count - 1);
+                ((ApplesGame)Game).AddScore(-4);
+            }
+            if (lives.Count != 0)
+                player.Reset(new Vector2(0, GROUND_LEVEL));
             if (lives.Count == 0)
                 player.IsAlive = false;
-            ((ApplesGame)Game).AddScore(-4);
         }
 
         // Do Bird collision detection and calls its update routine if alive
@@ -241,7 +245,11 @@ namespace Apple01
 
             // Check if player is dead and end game if so
             if (!player.IsAlive)
-                ((ApplesGame)Game).EndGame();
+            {
+                if(player.DeathTimer > 50)
+                    ((ApplesGame)Game).EndGame();
+                player.DeathTimer++;
+            }
 
             // Update platforms
             foreach(Sprite platform in tiles)

@@ -12,7 +12,7 @@ namespace Apple01
     class UserControlledSprite : Sprite
     {
         // idle, run, die and jump animations are loaded for this character
-        public enum AnimationType { Idle, Run, Die, Jump };
+        public enum AnimationType { Idle, Run, Jump, Die };
         public List<Animation> animations = new List<Animation>();
 
 
@@ -28,6 +28,8 @@ namespace Apple01
         {
             physics = new PlayerPhysics(this);
             IsAlive = true;
+            Dead = false;
+            DeathTimer = 0;
         }
         public UserControlledSprite(Texture2D textImage, Vector2 pos, Point frameSize,
                 int collisionOffset, Point currentFrame, Point sheetSize, Vector2 speed, float size, int millisecondsPerFrame)
@@ -35,6 +37,8 @@ namespace Apple01
         {
             physics = new PlayerPhysics(this);
             IsAlive = true;
+            Dead = false;
+            DeathTimer = 0;
         }
 
         /// <summary>
@@ -71,7 +75,7 @@ namespace Apple01
                                 new Point(0, 0), new Point(10, 1)));
             animations.Add(new Animation(content.Load<Texture2D>(@"Images/Jump"), new Point(64, 64),
                                 new Point(0, 0), new Point(11, 1), 70));
-            animations.Add(new Animation(content.Load<Texture2D>(@"Images/Die"), new Point(64, 64),
+            animations.Add(new Animation(content.Load<Texture2D>(@"Images/Die"), new Point(58, 64),
                                 new Point(0, 0), new Point(12, 1)));
         }
 
@@ -83,13 +87,18 @@ namespace Apple01
         /// <param name="keyboardState"></param>
         public void getInput(KeyboardState keyboardState)
         {
-            if (keyboardState.IsKeyDown(Keys.Right))
-                movement = 1f;
-            if (keyboardState.IsKeyDown(Keys.Left))
-                movement = -1f;
-            // Handles jump
-            if (Keyboard.GetState().IsKeyDown(Keys.Up))
-                physics.isJumping = true;
+            if (IsAlive)
+            {
+                if (keyboardState.IsKeyDown(Keys.Right))
+                    movement = 1f;
+                if (keyboardState.IsKeyDown(Keys.Left))
+                    movement = -1f;
+                if (keyboardState.IsKeyDown(Keys.Left) && keyboardState.IsKeyDown(Keys.Right))
+                    movement = 0f;
+                // Handles jump
+                if (Keyboard.GetState().IsKeyDown(Keys.Up))
+                    physics.isJumping = true;
+            }
 
         }
 
@@ -112,6 +121,12 @@ namespace Apple01
                     currentAnimation = animations[(int)AnimationType.Run];
                 else
                     currentAnimation = animations[(int)AnimationType.Idle];
+            }
+
+            if (!IsAlive && !Dead)
+            {
+                currentAnimation = animations[(int)AnimationType.Die];
+                Dead = true;
             }
 
             // Clear input

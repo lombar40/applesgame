@@ -20,7 +20,8 @@ namespace Apple01
 
         /* Properties */
         public bool IsAlive { get; set; }
-
+        public int DeathTimer { get; set; }
+        public bool Dead { get; set; }
         /// <summary>
         /// Returns the direction vector of the sprite
         /// </summary>

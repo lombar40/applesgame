@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Heart.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Heart.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Apple.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Apple.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Apple.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Bee1.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Bee1.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Bee1.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Bee2.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Bee2.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Bee2.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Die.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Die.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Die.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Idle.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Idle.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Idle.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Jump.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Jump.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Jump.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Layer0_0.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer0_0.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer0_0.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Layer0_1.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer0_1.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer0_1.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Layer0_2.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer0_2.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer0_2.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Layer1_0.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer1_0.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer1_0.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Layer1_1.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer1_1.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer1_1.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Layer1_2.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer1_2.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer1_2.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Layer2_0.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer2_0.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer2_0.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Layer2_1.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer2_1.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer2_1.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Layer2_2.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer2_2.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Layer2_2.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Run.png</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Run.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Run.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Bird5.png</Source>
@@ -160,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Bird5.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Bird5.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\Rock.png</Source>
@@ -169,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Rock.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\Rock.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\FrenzyTitleScreen.png</Source>
@@ -178,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\FrenzyTitleScreen.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\FrenzyTitleScreen.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\aboutApple.png</Source>
@@ -187,8 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\aboutApple.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\aboutApple.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\appleControls.png</Source>
@@ -196,8 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\appleControls.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\appleControls.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\appleGameOver.png</Source>
@@ -205,8 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\appleGameOver.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\appleGameOver.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Images\BlockB0.png</Source>
@@ -214,8 +214,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\BlockB0.xnb</Output>
-      <Time>2010-09-27T11:53:12-07:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Images\BlockB0.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Fonts\Score.spritefont</Source>
@@ -223,8 +223,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Fonts\Score.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Fonts\Score.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Background.wav</Source>
@@ -232,8 +232,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\Background.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\Background.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Bird.wav</Source>
@@ -241,8 +241,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\Bird.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\Bird.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Hit.wav</Source>
@@ -250,8 +250,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\Hit.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\Hit.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Hit2.wav</Source>
@@ -259,8 +259,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\Hit2.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\Hit2.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Bird03.wav</Source>
@@ -268,8 +268,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\Bird03.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\Bird03.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Hit3.wma</Source>
@@ -277,8 +277,8 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\Hit3.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\Hit3.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Sounds\AppleCollected.wma</Source>
@@ -286,8 +286,8 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\AppleCollected.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\AppleCollected.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Sounds\AppleAudio.mp3</Source>
@@ -295,8 +295,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\AppleAudio.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\AppleAudio.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <Item>
       <Source>Sounds\AppleAudioI.mp3</Source>
@@ -304,8 +304,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\AppleAudioI.xnb</Output>
-      <Time>2012-02-18T09:06:36-08:00</Time>
+      <Output>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\Sounds\AppleAudioI.xnb</Output>
+      <Time>2012-02-21T21:05:26-08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -313,39 +313,39 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Release</BuildConfiguration>
       <CompressContent>true</CompressContent>
-      <RootDirectory>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzyContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzyContent\obj\x86\Release\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\camilo2\Git\applesgame\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzyContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzyContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ryan\Desktop\Ernesto01-applesgame-903fb32\src\AppleFrenzy\AppleFrenzy\AppleFrenzy\bin\x86\Release\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Value>2010-08-23T12:41:18-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Value>2010-08-23T12:41:18-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Value>2010-08-23T12:41:18-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Value>2010-08-23T12:41:18-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Value>2010-08-23T12:41:18-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Value>2010-08-23T12:41:18-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2012-01-25T22:39:04.9750562-08:00</Value>
+        <Value>2012-04-10T22:44:20.4528084-07:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
